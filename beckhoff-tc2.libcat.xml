@@ -1,0 +1,355 @@
+<LibraryCategories>
+  <LibraryCategory xmlns="">
+	<Id>{e98088bb-59f5-4096-8784-4443932920df}</Id>
+	<Version>1.0.0.0</Version>
+	<DefaultName>Application</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{d2c47c8c-760e-440c-9147-4468a3c03edb}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{e98088bb-59f5-4096-8784-4443932920df}</Id>
+	</ParentCategory>
+	<DefaultName>CAA</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{9bad807f-0127-4ea6-86e7-4f68c24e0225}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{e98088bb-59f5-4096-8784-4443932920df}</Id>
+	</ParentCategory>
+	<DefaultName>Common</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{8677b78e-b730-40de-8a62-fdbce8da6680}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{e98088bb-59f5-4096-8784-4443932920df}</Id>
+	</ParentCategory>
+	<DefaultName>Safety</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{3dd4868c-6477-4606-b687-f340a9dbdd2c}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{e98088bb-59f5-4096-8784-4443932920df}</Id>
+	</ParentCategory>
+	<DefaultName>SoftMotion</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{66558e58-9485-48b4-9433-2bf60b045756}</Id>
+	<Version>1.0.0.0</Version>
+	<DefaultName>Intern</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{b8b4ee4e-1f42-45af-8ccf-c7f09c488826}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{66558e58-9485-48b4-9433-2bf60b045756}</Id>
+	</ParentCategory>
+	<DefaultName>CAA</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{385db9bf-1635-44ea-9c03-f7e409018454}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{66558e58-9485-48b4-9433-2bf60b045756}</Id>
+	</ParentCategory>
+	<DefaultName>CANbus</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{4b460928-c15e-4b69-919b-8e6fbab12643}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{66558e58-9485-48b4-9433-2bf60b045756}</Id>
+	</ParentCategory>
+	<DefaultName>Compatibility</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{7fc58ff6-d63b-4aac-a20f-7abbc9fd72f8}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{66558e58-9485-48b4-9433-2bf60b045756}</Id>
+	</ParentCategory>
+	<DefaultName>DataServer</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{0204e5d6-0060-4153-acd0-429a397324d0}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{66558e58-9485-48b4-9433-2bf60b045756}</Id>
+	</ParentCategory>
+	<DefaultName>IoDriverBase</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{a560fc75-2952-4be9-b2f7-e04b029744ab}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{66558e58-9485-48b4-9433-2bf60b045756}</Id>
+	</ParentCategory>
+	<DefaultName>IoDrivers</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{7f3353de-c77d-4c8c-9bc0-5b221ce0a7fe}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{66558e58-9485-48b4-9433-2bf60b045756}</Id>
+	</ParentCategory>
+	<DefaultName>NetVars</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{e129985a-d24f-4869-8755-5a2b089f16c4}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{66558e58-9485-48b4-9433-2bf60b045756}</Id>
+	</ParentCategory>
+	<DefaultName>Profiler</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{75a5fc32-fdd8-4338-9a21-cd620e3c7569}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{66558e58-9485-48b4-9433-2bf60b045756}</Id>
+	</ParentCategory>
+	<DefaultName>RecipeManagement</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{59ff46a0-e373-49c8-b11c-91d772d9f754}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{66558e58-9485-48b4-9433-2bf60b045756}</Id>
+	</ParentCategory>
+	<DefaultName>Safety</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{fff3a71e-3da2-468a-b82b-6c8fa8607f26}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{66558e58-9485-48b4-9433-2bf60b045756}</Id>
+	</ParentCategory>
+	<DefaultName>SFC</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{af11cf2a-bea4-4a38-add0-f13b3682d425}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{66558e58-9485-48b4-9433-2bf60b045756}</Id>
+	</ParentCategory>
+	<DefaultName>SoftMotion</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{e7430333-8bd3-4ce2-8535-d61528e26db2}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{66558e58-9485-48b4-9433-2bf60b045756}</Id>
+	</ParentCategory>
+	<DefaultName>SymbolConfiguration</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{24114f71-a313-48dc-b727-4814a5ae5e7e}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{66558e58-9485-48b4-9433-2bf60b045756}</Id>
+	</ParentCategory>
+	<DefaultName>Visu</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{b62c2041-b627-4159-b727-149b019609e6}</Id>
+	<Version>1.0.0.0</Version>
+	<DefaultName>System</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{62e04908-d9eb-41d7-b3fd-8087020771a0}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{b62c2041-b627-4159-b727-149b019609e6}</Id>
+	</ParentCategory>
+	<DefaultName>CAA</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{8302f600-9f75-49a9-9172-d355d63e3a62}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{b62c2041-b627-4159-b727-149b019609e6}</Id>
+	</ParentCategory>
+	<DefaultName>SoftMotion</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{5250160a-a348-41ef-96d8-0cd52f94e320}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{b62c2041-b627-4159-b727-149b019609e6}</Id>
+	</ParentCategory>
+	<DefaultName>SysLibs</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{45f0ac40-c00c-4d2d-a74e-2cf5adbaf3a4}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{b62c2041-b627-4159-b727-149b019609e6}</Id>
+	</ParentCategory>
+	<DefaultName>SysLibs23</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{75b20332-150b-4ccd-aa20-fb072490fb80}</Id>
+	<Version>1.0.0.0</Version>
+	<DefaultName>Target</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{7db0e3a2-bee3-451b-932c-0f87340204d4}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{75b20332-150b-4ccd-aa20-fb072490fb80}</Id>
+	</ParentCategory>
+	<DefaultName>3S - Smart Software Solutions GmbH</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{519b1d74-b1de-4a68-a3bf-c1fdb3909c18}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{7db0e3a2-bee3-451b-932c-0f87340204d4}</Id>
+	</ParentCategory>
+	<DefaultName>PLCWinNT V3.x</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{21e56dab-2863-4515-a4a5-d154a08ccd4e}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{519b1d74-b1de-4a68-a3bf-c1fdb3909c18}</Id>
+	</ParentCategory>
+	<DefaultName>CAA</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{bef66cc1-9006-4083-92e8-84957423b2c7}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{519b1d74-b1de-4a68-a3bf-c1fdb3909c18}</Id>
+	</ParentCategory>
+	<DefaultName>Safety</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{c52dbc97-13e5-46c3-8641-481f5d8daff9}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{519b1d74-b1de-4a68-a3bf-c1fdb3909c18}</Id>
+	</ParentCategory>
+	<DefaultName>SoftMotion</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{c179664b-4223-4f78-b898-054073c60fb3}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{7db0e3a2-bee3-451b-932c-0f87340204d4}</Id>
+	</ParentCategory>
+	<DefaultName>PLCWinRTE V3.x</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{2a47d467-e781-4f73-a35c-01b9d33d28d2}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{c179664b-4223-4f78-b898-054073c60fb3}</Id>
+	</ParentCategory>
+	<DefaultName>CAA</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{a4c9aab3-b8bd-4826-9677-1820291d2f2d}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{c179664b-4223-4f78-b898-054073c60fb3}</Id>
+	</ParentCategory>
+	<DefaultName>Safety</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{11ebb73b-df74-48e0-8fed-9b2db84e438a}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{c179664b-4223-4f78-b898-054073c60fb3}</Id>
+	</ParentCategory>
+	<DefaultName>SoftMotion</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{769db563-3955-441f-b96b-8b177b70d377}</Id>
+	<Version>1.0.0.0</Version>
+	<DefaultName>Use Cases</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{5ae804c1-a428-4c88-bd60-f4966d9b522b}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{66558e58-9485-48b4-9433-2bf60b045756}</Id>
+	</ParentCategory>
+	<DefaultName>Utils</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{e66bdbd6-b91d-4e4a-97d6-c698c033210c}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{b8b4ee4e-1f42-45af-8ccf-c7f09c488826}</Id>
+	</ParentCategory>
+	<DefaultName>Application</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{c812fecb-9bc1-488a-9e68-df19744bfaef}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{b8b4ee4e-1f42-45af-8ccf-c7f09c488826}</Id>
+	</ParentCategory>
+	<DefaultName>Database</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{6680e7c8-f7d5-41a9-94fe-14602a15effa}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{b8b4ee4e-1f42-45af-8ccf-c7f09c488826}</Id>
+	</ParentCategory>
+	<DefaultName>Fieldbus</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{b42cc94a-6be6-4e71-9420-bda87e1cd129}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{b8b4ee4e-1f42-45af-8ccf-c7f09c488826}</Id>
+	</ParentCategory>
+	<DefaultName>Foundation</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{50af6a48-e2e7-4280-82af-8818f86e464d}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{b8b4ee4e-1f42-45af-8ccf-c7f09c488826}</Id>
+	</ParentCategory>
+	<DefaultName>Guidelines</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{a60af49c-8a71-4300-a862-17e5fe7de198}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{b8b4ee4e-1f42-45af-8ccf-c7f09c488826}</Id>
+	</ParentCategory>
+	<DefaultName>Network</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{368639a0-d7b3-4311-9a2f-7bf2bab35b30}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{b8b4ee4e-1f42-45af-8ccf-c7f09c488826}</Id>
+	</ParentCategory>
+	<DefaultName>Runtime</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{a4072735-6719-4d80-ba50-1d428672d406}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{b8b4ee4e-1f42-45af-8ccf-c7f09c488826}</Id>
+	</ParentCategory>
+	<DefaultName>System</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory xmlns="">
+	<Id>{94be3750-453a-45b4-b1b7-327809b35168}</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>{b8b4ee4e-1f42-45af-8ccf-c7f09c488826}</Id>
+	</ParentCategory>
+	<DefaultName>Utilities</DefaultName>
+  </LibraryCategory>
+</LibraryCategories>
