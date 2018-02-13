@@ -5,6 +5,6 @@ TwinCAT Library Categories
 
 - TwinCAT 2
 - TwinCAT 3
-- TwinCAT 3.1
+- TwinCAT 3.1.4022.2
 
 Library Categories -> Add -> From Description File... -> Library categories (*.libcat.xml)
