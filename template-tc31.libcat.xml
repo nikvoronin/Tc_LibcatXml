@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LibraryCategories xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="LibraryCategories.xsd">
+  <LibraryCategory>
+	<Id>12345678-0123-1234-0123-123456789012</Id>
+	<Version>1.0.0.0</Version>
+	<DefaultName>MainCategory</DefaultName>
+  </LibraryCategory>
+  <LibraryCategory>
+	<Id>98765432-9876-9876-9876-987654321098</Id>
+	<Version>1.0.0.0</Version>
+	<ParentCategory>
+	  <Id>12345678-0123-1234-0123-123456789012</Id>
+	</ParentCategory>
+	<DefaultName>Main_SubCategory</DefaultName>
+  </LibraryCategory>
+</LibraryCategories>
